@@ -1,3 +1,23 @@
+/**
+******************************************************************************
+* @file ELSPIRE_OS.h
+* @version 1.0
+* @author Agapov Aleksandr
+* @brief Header file of Elspire OS.
+******************************************************************************
+* @attention
+*
+* Copyright (c) 2020 Agapov Aleksandr.
+* All rights reserved.
+*
+* This software is licensed under terms that can be found in the LICENSE file
+* in the root directory of this software component.
+* If no LICENSE file comes with this software, it is provided AS-IS.
+*
+******************************************************************************
+*/
+
+/* Define to prevent recursive inclusion -------------------------------------*/
 #ifndef INC_ELSPIRE_OS_H_
 #define INC_ELSPIRE_OS_H_
 
